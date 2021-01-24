@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Workout Generator</string>
+    <string name="welcome">Welcome to Workout Generator!</string>
+    <string name="generate">Generate</string>
+</resources>
